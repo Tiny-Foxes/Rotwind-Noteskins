@@ -17,6 +17,7 @@ Po-mu:
         -Coming soon-
         
 KBX:
-        Axolotl - Version 1.0 - (released 24.08.2022)
+        Axolotl - Version 1.0 - (released 24th March 2022)
           A bar-noteskin themed around an axolotl in 4 colors (red & blue, yellow for spacebar, white for upper row)
 
+Latest update: 24.03.2022
